@@ -1,219 +1,221 @@
-# 万能高速打斗运镜手册（用户原稿，逐字存档）
+# Universal High-Speed Fight Cinematography Manual
 
-## 1. 核心运镜原则
+(Translated from the user's original Chinese manuscript; structure and wording preserved.)
 
-一镜到底，不硬切。
-镜头不是"拍完动作"，而是跟随速度、制造速度、放大速度。
+## 1. Core Camera Principles
 
-运镜要服务三件事：
+One continuous take, no hard cuts.
+The camera doesn't just "record the action" — it follows speed, manufactures speed, and amplifies speed.
 
-1. 让观众看清动作轨迹
-2. 强化攻击方向和力量
-3. 用镜头速度制造压迫感
+Every camera move serves three purposes:
 
-## 一、机位调度万能公式
+1. Let the viewer read the action trajectory
+2. Amplify attack direction and force
+3. Manufacture pressure through lens speed
 
-### 1. 起手冲刺：低机位 + 全景 + 快速推镜
+## I. The 10 Universal Camera Formulas
 
-适合：角色高速冲锋、魔物扑击、第一波冲突。
+### 1. Opening Charge: low angle + full shot + fast push-in
 
-镜头逻辑：
-低机位压低地平线，让人物显得更快、更有压迫感。快速推镜制造"敌人朝镜头冲来"的速度感。
+Best for: characters charging at high speed, monster lunges, the first clash.
 
-万能写法：
+Camera logic:
+A low angle drops the horizon line, making figures read faster and more menacing. A fast push-in manufactures the sensation of "the enemy rushing at the lens."
 
-机位低角度仰拍，FS全景，镜头从两人之间急速前推，跟随双方高速对冲，前景碎石与草叶快速掠过，FOV轻微拉宽制造冲刺感。
+Universal wording:
 
-### 2. 高速错位：环绕镜头 + 焦点切换
+Low-angle shot, FS full shot, camera pushes forward rapidly between the two fighters, following their high-speed head-on charge; gravel and grass blades whip past the foreground, FOV widens slightly to sell the sprint.
 
-适合：两人擦肩而过、攻防互换、身法闪避。
+### 2. High-Speed Crossover: orbit + focus switch
 
-镜头逻辑：
-环绕不是乱转，而是围绕"交错点"旋转，让观众看清谁从哪里来、谁往哪里去。
+Best for: two fighters passing each other, offense-defense reversals, evasive footwork.
 
-万能写法：
+Camera logic:
+The orbit isn't random rotation — it circles the "crossover point" so the viewer can read who came from where and where each is going.
 
-ORBIT环绕两人错位点半圈，焦点先锁定进攻者，再切到闪避者，背景海面与草丛形成高速运动模糊，镜头跟随身体转向轻微甩动。
+Universal wording:
 
-### 3. 腿法轨迹：贴地跟拍 + 摇镜跟随
+ORBIT half a circle around the two fighters' crossover point; focus locks onto the attacker first, then switches to the dodger; sea and grass blur into high-speed motion streaks in the background, camera whips slightly with the turn of the bodies.
 
-适合：扫堂腿、低腿、滑铲、贴地追击。
+### 3. Kick Trajectory: ground-level tracking + pan follow
 
-镜头逻辑：
-镜头要贴近腿部轨迹，让观众看到腿的运动路线。
+Best for: sweep kicks, low kicks, sliding tackles, ground-hugging pursuit.
 
-万能写法：
+Camera logic:
+The camera must hug the leg's trajectory so the viewer can see the path the leg travels.
 
-TRACK平移贴近地面，跟随扫腿轨迹横向移动，镜头高度低于膝盖，草叶从镜头前快速划过，踢击瞬间轻微上摇，展示腿风带起的草屑和泥点。
+Universal wording:
 
-### 4. 腾空动作：低机位仰拍 + 急速上摇
+TRACK laterally at ground level, following the sweep-kick trajectory; camera height stays below the knee, grass blades slice quickly past the lens; at the moment of the kick, tilt up slightly to show grass clippings and dirt kicked up by the leg wind.
 
-适合：跳跃、飞膝、回旋踢、空中闪避。
+### 4. Aerial Move: low-angle shot + rapid tilt-up
 
-镜头逻辑：
-低机位仰拍能放大腾空高度，上摇镜头跟随人物上升，让动作有"拔地而起"的力量感。
+Best for: jumps, flying knees, spinning kicks, mid-air dodges.
 
-万能写法：
+Camera logic:
+A low-angle shot magnifies jump height; tilting up with the rising body gives the move a "ripped off the ground" power.
 
-机位从低角度仰拍起跳点，TILT-U急速上摇跟随人物升空，镜头轻微滞后于动作，强化滞空感和身体旋转幅度。
+Universal wording:
 
-### 5. 命中瞬间：特写定格 + 轻微震动
+Camera starts low, angled up at the takeoff point; TILT-UP races upward following the rising body, lens lagging slightly behind the action to amplify the sense of hang time and the amplitude of the body's rotation.
 
-适合：拳腿命中、格挡碰撞、武器招架。
+### 5. Impact Moment: close-up freeze + subtle vibration
 
-镜头逻辑：
-命中瞬间不要一直动，要有极短停顿，让观众看清"打中了"。
+Best for: punches and kicks landing, blocks colliding, weapons parrying.
 
-万能写法：
+Camera logic:
+Don't keep moving through the hit — hold for a fraction of a second so the viewer registers "it connected."
 
-CU特写攻击落点，WHIP甩镜跟碰触瞬间，画面0.15秒凝滞锐化，碎屑悬停，随后镜头轻微震动并快速恢复运动。
+Universal wording:
 
-### 6. 被震飞：急速后拉 + 运动拖影
+CU close-up on the point of impact, WHIP pan following the instant of contact; frame freeze-sharpens for 0.15 seconds, debris hangs suspended, then the camera vibrates subtly and snaps back into motion.
 
-适合：击退、弹飞、摔落、冲击波爆发。
+### 6. Knockback: rapid pull-back + motion trails
 
-镜头逻辑：
-后拉不是单纯后退，而是展示"人物被打出去的距离和方向"。
+Best for: knockbacks, launches, slam-downs, shockwave bursts.
 
-万能写法：
+Camera logic:
+The pull-back isn't just retreating — it shows the distance and direction the body was blasted.
 
-PULL急速后拉至MS中景，镜头跟随被击退者后撤，背景空间快速展开，人物边缘带出长拖影，地面草屑和碎石沿击退方向飞溅。
+Universal wording:
 
-### 7. 追击连招：跟拍侧移 + 镜头贴近
+PULL back rapidly to MS medium shot, camera retreating with the launched fighter; background space opens up fast, long motion trails drag off the figure's edges, grass clippings and gravel spray along the knockback direction.
 
-适合：连续踢、连击、贴身压制。
+### 7. Pursuit Combo: side tracking + tight framing
 
-镜头逻辑：
-镜头要像贴在战斗者身边一样，让观众感受到连招的密度。
+Best for: consecutive kicks, combo strings, close-range pressure.
 
-万能写法：
+Camera logic:
+The camera should feel glued to the fighter's side, so the viewer feels the density of the combo.
 
-DOLLY平移贴近进攻者身侧，速度与人物同步，镜头在仰拍和平视之间快速切换，每一次攻击都轻微前弹，强化压迫节奏。
+Universal wording:
 
-### 8. 魔物反击：反向推镜 + 焦点切到敌人
+DOLLY tracks tight alongside the attacker, speed matched to the body; camera cuts rapidly between low angle and eye level, punching slightly forward on every strike to amplify the oppressive rhythm.
 
-适合：魔物突然反击、触手攻击、能量爆发。
+### 8. Monster Counterattack: reverse push + focus cut to the enemy
 
-镜头逻辑：
-魔物反击时，镜头必须立刻把观众注意力转到威胁点上。
+Best for: sudden monster counters, tentacle strikes, energy bursts.
 
-万能写法：
+Camera logic:
+The moment the monster counters, the camera must snap the viewer's attention to the threat.
 
-镜头从进攻者身后快速推出，PAN转向魔物反击方向，PUSH急速逼近魔物动作点，焦点锁定暗能触手或重拳轨迹，前景草叶被气流冲开。
+Universal wording:
 
-### 9. 高空压制：仰拍 + 垂直拉镜
+Camera whips out from behind the attacker, PANs toward the monster's counter direction, PUSHes rapidly into the monster's action point; focus locks onto the dark-energy tentacle or heavy-fist trajectory, foreground grass blades blasted apart by the shockwave.
 
-适合：从天而降的腿法、空中下砸、上方压制。
+### 9. Overhead Suppression: upward angle + vertical pull
 
-镜头逻辑：
-仰拍能放大下坠压迫感，垂直拉镜能让观众看到攻击从上方落下。
+Best for: descending kicks from above, downward slams, top-down pressure.
 
-万能写法：
+Camera logic:
+Shooting upward magnifies the pressure of the descent; a vertical pull lets the viewer watch the attack drop from above.
 
-低机位仰拍人物升至高点，镜头垂直下摇跟随下砸攻击，画面重心随攻击快速下沉，地面草屑被冲击波向外炸开。
+Universal wording:
 
-### 10. 尾帧连招前摇：中近景 + 缓慢后拉
+Low-angle shot as the fighter rises to the apex; camera tilts vertically downward following the slamming attack, frame's center of gravity plunging with the strike, ground grass blasted outward by the shockwave.
 
-适合：结尾不结束、准备下一轮攻击、角色蓄力压迫。
+### 10. End-Frame Combo Wind-Up: medium close-up + slow pull-back
 
-镜头逻辑：
-结尾不要停在摆pose，要停在"下一击马上开始"的状态。
+Best for: endings that don't end — bracing for the next round, a fighter charging pressure.
 
-万能写法：
+Camera logic:
+Don't end on a held pose; end on the "next strike is about to launch" state.
 
-MCU中近景锁定进攻者低姿态蓄力，PULL缓慢后拉，背景远处敌人仍在倒飞或倒地，焦点锁死角色眼神和腿部蓄力，画面停在即将启动下一轮连招的前一瞬间。
+Universal wording:
 
-## 二、速度档位万能标注
+MCU medium close-up locking the attacker's low coiled stance, PULL back slowly; the enemy still tumbling or downed in the distant background, focus pinned on the character's eyes and the coiled legs, frame freezing on the instant before the next combo erupts.
 
-### 1. Swift / 快速跟拍
+## II. The 4 Universal Speed Tiers
 
-用于：冲刺、闪避、连击、贴地移动。
+### 1. Swift — fast tracking
 
-效果：
-动作流畅、速度快、跟拍紧。
+Use for: sprints, dodges, combos, ground-hugging movement.
 
-万能写法：
+Effect:
+Fluid motion, high speed, tight tracking.
 
-DOLLY swift，紧贴人物运动方向跟拍，前景草叶快速划过，背景产生横向运动模糊。
+Universal wording:
 
-### 2. Whip / 甩镜
+DOLLY swift, hugging the body's direction of travel; foreground grass streaks past, background smears into lateral motion blur.
 
-用于：踢击轨迹、转身、命中瞬间、方向突变。
+### 2. Whip — whip-pan
 
-效果：
-有速度爆发感。
+Use for: kick arcs, spins, impact instants, sudden direction changes.
 
-万能写法：
+Effect:
+Explosive sense of speed.
 
-WHIP甩镜跟随腿弧横向扫过，落点瞬间轻微凝滞，边缘产生动态拖影。
+Universal wording:
 
-### 3. Gentle / 缓慢后拉
+WHIP pan sweeping horizontally with the leg's arc, micro-freeze on the landing point, dynamic trailing at the edges.
 
-用于：结尾压迫、蓄力、展示战场格局。
+### 3. Gentle — slow pull-back
 
-效果：
-制造"战斗还没结束"的张力。
+Use for: closing pressure, charging up, revealing the battlefield layout.
 
-万能写法：
+Effect:
+Manufactures the tension of "the fight isn't over."
 
-PULL gentle缓慢后拉，焦点锁定前景角色，背景战场逐渐展开，人物保持低姿态蓄力。
+Universal wording:
 
-### 4. Shock / 震动镜头
+PULL gentle, slow pull-back, focus locked on the foreground fighter; the battlefield gradually opens behind, the figure holding a low coiled stance.
 
-用于：重击、爆发、砸地、能量碰撞。
+### 4. Shock — vibration
 
-效果：
-强化冲击力。
+Use for: heavy hits, eruptions, ground slams, energy collisions.
 
-万能写法：
+Effect:
+Amplifies impact force.
 
-命中瞬间镜头shock震动0.3秒，画面轻微抖动，地面碎石和草屑沿冲击波方向扩散。
+Universal wording:
 
-## 三、景别万能搭配
+On impact the camera shocks for 0.3 seconds, frame shuddering slightly, ground gravel and grass scattering along the shockwave.
 
-| 动作阶段 | 推荐景别 | 作用 |
+## III. Universal Shot-Size Pairings
+
+| Action phase | Recommended shot size | Purpose |
 |---|---|---|
-| 起手对冲 | FS全景 | 展示双方距离和速度 |
-| 贴地移动 | MS中景 / 低机位 | 展示身法轨迹 |
-| 踢击命中 | CU特写 | 强化打击点 |
-| 腾空回旋 | 仰拍MS | 展示动作幅度 |
-| 连招压制 | 侧移MS | 展示节奏密度 |
-| 魔物反击 | 反向FS / CU | 制造威胁 |
-| 尾帧蓄力 | MCU中近景 | 保留压迫感 |
+| Opening clash | FS full shot | Show the distance and speed between both sides |
+| Ground movement | MS medium shot / low angle | Show footwork trajectory |
+| Kick impact | CU close-up | Amplify the strike point |
+| Aerial spin | Low-angle MS | Show the amplitude of the move |
+| Combo pressure | Tracking MS | Show rhythmic density |
+| Monster counter | Reverse FS / CU | Manufacture threat |
+| End-frame wind-up | MCU medium close-up | Hold the pressure |
 
-## 四、镜头语言万能模板
+## IV. Universal Camera-Language Templates
 
-### 模板一：高速起手
+### Template 1: High-speed opening
 
-低角度FS全景，镜头从地面急速前推，跟随双方高速对冲，前景草叶和碎石掠过画面，FOV轻微拉宽，强化冲刺压迫感。
+Low-angle FS full shot, camera pushes forward rapidly from ground level, following both sides' high-speed head-on charge; foreground grass and gravel sweep past, FOV widens slightly, amplifying the pressure of the sprint.
 
-### 模板二：腿法连击
+### Template 2: Kick combo
 
-DOLLY swift贴近进攻者身侧横向跟拍，镜头随腿法轨迹轻微上下起伏，每一次踢击都快速前弹，背景形成连续运动模糊。
+DOLLY swift hugging the attacker's side in lateral tracking, camera bobbing gently with the kick trajectory, punching quickly forward on every kick, background dissolving into continuous motion blur.
 
-### 模板三：闪避错位
+### Template 3: Dodge crossover
 
-ORBIT环绕两人交错点半圈，焦点在进攻者和闪避者之间快速切换，镜头跟随身体转向轻微甩动，突出攻防互换。
+ORBIT half a circle around the two fighters' crossover point, focus switching rapidly between attacker and dodger, camera whipping slightly with the turn of the bodies, highlighting the offense-defense reversal.
 
-### 模板四：魔物反击
+### Template 4: Monster counterattack
 
-镜头从进攻者身后快速转向魔物，PUSH急速逼近反击点，焦点锁定暗能轨迹，前景草丛被气流冲开，制造突然威胁。
+Camera whips from behind the attacker toward the monster, PUSH rushing into the counterattack point, focus locked on the dark-energy trajectory, foreground grass blasted apart by the airflow, manufacturing sudden threat.
 
-### 模板五：命中破防
+### Template 5: Impact breakthrough
 
-CU特写攻击落点，WHIP甩镜跟碰触瞬间，画面0.15秒凝滞锐化，火花、草屑和暗能粒子悬停，随后镜头shock震动并快速恢复运动。
+CU close-up on the strike's landing point, WHIP pan following the instant of contact, frame freeze-sharpening for 0.15 seconds, sparks, grass clippings and dark-energy particles hanging suspended, then the camera shock-vibrating and snapping back into motion.
 
-### 模板六：尾帧连招前摇
+### Template 6: End-frame combo wind-up
 
-MCU中近景锁定角色低姿态蓄力，PULL gentle缓慢后拉，背景远处敌人仍处于倒飞或失衡状态，画面停在下一击即将爆发的前一瞬间。
+MCU medium close-up locking the fighter's low coiled stance, PULL gentle slow pull-back, the enemy still tumbling or off-balance in the distant background, frame stopping on the instant before the next strike erupts.
 
-## 五、万能运镜总口诀
+## V. The Universal Camera Mantra
 
-低机位冲，贴地跟；
-环绕错，甩镜追；
-特写打，震动停；
-后拉开，尾帧续。
+Low angle charge, track low to the ground;
+orbit the cross, whip-pan the chase;
+punch in close, freeze-shake on impact;
+pull back wide, end on the wind-up.
 
-最实用的一句是：
+The single most useful line:
 
-高速打斗不要一直拍"人在动"，要让镜头贴着动作轨迹走、跟着攻击方向转、在命中点短暂停、在结尾留下下一击的空间。
+For high-speed fights, don't just film "people moving" — keep the camera glued to the action trajectory, turning with the attack direction, pausing briefly on impact, and ending with room left for the next strike.
